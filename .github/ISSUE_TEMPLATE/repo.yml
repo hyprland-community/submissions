@@ -1,6 +1,6 @@
 name: Repo Request
 description: File a repo request
-title: "[Repo Request]: <title>"
+title: "[Repo Request]: <name>"
 labels: ["repo-request"]
 assignees:
   - yavko
@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to write this repo request!
-  - type: textarea
+  - type: input
     id: name
     attributes:
       label: What do you want it to be named?
