@@ -1,5 +1,8 @@
-# Repo request submissions
-Place to request repos on this org
+# Repository Request Submissions
+
+Go-to repository to request new repository transfer to the
+hyprland-community organization.
 
 ## How?
-Make an issue with the `repo request` form! Its that simple!
+Create a new issue with the `repo request` form! It is that
+simple!
